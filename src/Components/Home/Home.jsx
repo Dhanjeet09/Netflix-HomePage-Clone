@@ -80,7 +80,7 @@ const Home = () => {
 
   return (
     <>
-      <div  className="">
+      <div>
         <div
           style={{
             backgroundImage: popularMovies[15]
